@@ -1,0 +1,7 @@
+[submodule "beanstalkc"]
+    path = libs/beanstalkc
+    url = https://github.com/earl/beanstalkc.git
+
+[submodule "pythondaemon"]
+    path = libs/pythondaemon
+    url = https://github.com/serverdensity/python-daemon.git
